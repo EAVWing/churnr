@@ -1,0 +1,12 @@
+Package: churnr
+Type: Package
+Title: a collection of functions and sample data for customer churn analysis
+Version: 0.1.0
+Author: Stephen Ewing
+Maintainer: stephenewing1337@gmail.com
+Description: I'll fill this all out later with a vinette and such
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp
